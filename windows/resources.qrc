@@ -1,0 +1,29 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/gdal">
+      <file alias="gt_datum.csv">share/gdal/gt_datum.csv</file>
+      <file alias="s57attributes.csv">share/gdal/s57attributes.csv</file>
+      <file alias="vertcs.override.csv">share/gdal/vertcs.override.csv</file>
+      <file alias="gdal_datum.csv">share/gdal/gdal_datum.csv</file>
+      <file alias="gcs.override.csv">share/gdal/gcs.override.csv</file>
+      <file alias="vertcs.csv">share/gdal/vertcs.csv</file>
+      <file alias="pcs.csv">share/gdal/pcs.csv</file>
+      <file alias="s57expectedinput.csv">share/gdal/s57expectedinput.csv</file>
+      <file alias="geoccs.csv">share/gdal/geoccs.csv</file>
+      <file alias="prime_meridian.csv">share/gdal/prime_meridian.csv</file>
+      <file alias="gcs.csv">share/gdal/gcs.csv</file>
+      <file alias="stateplane.csv">share/gdal/stateplane.csv</file>
+      <file alias="gt_ellips.csv">share/gdal/gt_ellips.csv</file>
+      <file alias="unit_of_measure.csv">share/gdal/unit_of_measure.csv</file>
+      <file alias="s57objectclasses.csv">share/gdal/s57objectclasses.csv</file>
+      <file alias="datum_shift.csv">share/gdal/datum_shift.csv</file>
+      <file alias="ozi_datum.csv">share/gdal/ozi_datum.csv</file>
+      <file alias="s57agencies.csv">share/gdal/s57agencies.csv</file>
+      <file alias="ozi_ellips.csv">share/gdal/ozi_ellips.csv</file>
+      <file alias="ellipsoid.csv">share/gdal/ellipsoid.csv</file>
+      <file alias="pcs.override.csv">share/gdal/pcs.override.csv</file>
+      <file alias="projop_wparm.csv">share/gdal/projop_wparm.csv</file>
+      <file alias="compdcs.csv">share/gdal/compdcs.csv</file>
+      <file alias="coordinate_axis.csv">share/gdal/coordinate_axis.csv</file>
+  </qresource>
+</RCC>
